@@ -1,0 +1,28 @@
+azure-core
+azure-identity
+azure-search-documents #11.4.0
+semantic-kernel #0.9.5b1
+openai
+langchain
+langchain-openai
+tiktoken
+python-dotenv
+requests
+unstructured
+markdown
+qdrant-client
+chromadb
+yfinance
+langchain-community
+pymongo
+ijson
+ipykernel
+azure-cosmos
+streamlit==1.42.1
+langchain==0.3.19
+qdrant-client==1.13.2
+html2text==2024.2.26
+tiktoken==0.9.0
+python-dotenv==1.0.1
+grpcio-tools==1.70.0
+flask
